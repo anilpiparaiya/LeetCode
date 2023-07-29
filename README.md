@@ -1,2 +1,2 @@
-# LeetCode-Daily-Challeng-July-2023
+# LeetCode-Daily-Challenges
 Solve Daily Challenge to refresh my streak!
