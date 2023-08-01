@@ -59,3 +59,25 @@ public:
         return result; // return result that is the missing number
     }
 };
+
+// Solution 4
+
+class Solution {
+public:
+    int missingNumber(vector<int>& nums) {
+        int start = 0, end = nums.size();
+        sort(nums.begin(), nums.end());
+        while(start<end){
+            int mid = start + (end - start) / 2;
+            if(nums[mid] == mid){
+                start = mid + 1;
+            }
+
+            else end = mid;
+            
+        }
+
+        return start;
+        
+    }
+};
