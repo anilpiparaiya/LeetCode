@@ -1,5 +1,5 @@
 # LeetCode-Daily-Challenges
-Daily Challenge to refresh my streak!
+Daily Challenges to refresh my streak!
 
 
 How do I determine if today was productive or not ?
