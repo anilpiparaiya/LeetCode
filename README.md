@@ -5,12 +5,13 @@ This is a repository for the solutions of various Leetcode problems. It was star
 
 *Happy Leetcoding!*
 
-# Contribution
+## Contribution
 
 Solve Leetcode problems and add the solutions here. Follow the naming pattern for ease in locating the solutions.
 Some sample issues have been created for your convenience but feel free to add more issues and send PRs. Remember not to duplicate questions and not to submit problems during any ongoing competition.
 
 
+## My productivity hacks
 How do I determine if today was productive or not ?
 
 
