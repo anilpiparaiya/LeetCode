@@ -28,7 +28,6 @@ public:
         ans.push_back(root->val);
 
         // PreOrder in all of the children
-
         for(int i = 0; i< root->children.size(); i++){
             PreOrder(root->children[i], ans);
         }
