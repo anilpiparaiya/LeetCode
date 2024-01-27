@@ -1,11 +1,8 @@
-# LeetCode-Daily-Challenges
-Daily Challenges to refresh my streak!
-
 <p align="center"> 
 <img height="300" src="https://i.imgur.com/BCCL6gb.png">
 </p>
 
-
+# LeetCode-Daily-Challenges
 This is a repository for the solutions of various Leetcode problems. It was started with the aim of making a nice database of various leetcode problems in C++. 
 
 *Happy Leetcoding!*
