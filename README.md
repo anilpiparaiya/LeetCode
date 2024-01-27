@@ -1,5 +1,6 @@
-# LeetCode-Daily-Challenges
+
 <p align="center"> 
+  # LeetCode-Daily-Challenges
 <img height="300" src="https://i.imgur.com/BCCL6gb.png">
 </p>
 
