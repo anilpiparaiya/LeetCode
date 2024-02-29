@@ -6,16 +6,8 @@
 This is a repository for the solutions of various Leetcode problems. It was started with the aim of making a nice database of various leetcode problems in C++. 
 
 *Happy Leetcoding!*
-
-## Contribution
-
-Solve Leetcode problems and add the solutions here. Follow the naming pattern for ease in locating the solutions.
-Some sample issues have been created for your convenience but feel free to add more issues and send PRs. Remember not to duplicate questions and not to submit problems during any ongoing competition.
-
-
 ## My productivity hacks
 How do I determine if today was productive or not ?
-
 
 I have some clear objectives which I would love to achieve on a daily basis
 
@@ -30,6 +22,46 @@ I have some clear objectives which I would love to achieve on a daily basis
 but the sad part is I am not Superman, so to call my day a productive I try to accomplish minimum 4 out of 6 things mentioned above.
 
 Then, every week I try to beat my number of productive days.
+
+
+
+
+I failed so many coding interviews until I learned these 30 lessons:
+
+1) Most interviewers are supportive and want you to succeed.
+2) Prepare a short and concise introduction.
+3) Be ready to discuss technical aspects of your projects in detail.
+4) Understanding the problem well is the first step during interviews.
+5) Never assume things which are not given in the problem.
+6) Ask clarifying questions about the problem, input/output format, constraints, and edge cases.
+7) It’s ok to use pen and paper and take notes during the interview.
+8) Pick a programming language you are most comfortable with.
+9) Start Simple, Then Optimize.
+10) You are not expected to know the perfect solution immediately.
+11) Ask for hints if stuck for long.
+12) Listen attentively to the interviewer, and integrate the hints/suggestions.
+13) Start coding only when you're clear on what to write.
+14) Don't just code, communicate.
+15) Discuss your approach before you begin coding, not after.
+16) Think aloud. Your interviewer can't read your mind.
+17) Your solution is as good as how well you communicate it.
+18) Use meaningful variable names and keep your code organized.
+19) Break down complex questions into small independent questions.
+20) Prioritize optimizing computations that are repeated, overlapping, or redundant.
+21) Write clean, readable and modular code.
+22) Avoid overcomplicating your solution.
+23) Write tests to validate your solution. Consider edge cases.
+24) Be ready to discuss the time and space complexity of your code.
+25) Behavioral questions are important too.
+26) Have few questions to ask the interviewer.
+27) Rest well before the Interview.
+28) Start giving interviews before you think you are ready.
+29) Luck plays a significant role, so don't be disappointed if you aren't selected.
+30) Use rejections as opportunities to identify areas for improvement.
+
+Bonus: HashMaps are your best friend. Know them well.
+
+
 
 
 # Awesome LeetCode Resources
@@ -69,5 +101,9 @@ This repository contains LeetCode resources which are useful during interview pr
 
 ## Must-Do Problems (Topic Wise)
 
-
+## Contribution
 Your contributions are most welcome!
+
+Solve Leetcode problems and add the solutions here. Follow the naming pattern for ease in locating the solutions.
+Some sample issues have been created for your convenience but feel free to add more issues and send PRs. Remember not to duplicate questions and not to submit problems during any ongoing competition.
+
